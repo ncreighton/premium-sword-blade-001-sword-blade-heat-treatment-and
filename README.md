@@ -1,0 +1,2 @@
+# premium-sword-blade-001-sword-blade-heat-treatment-and
+Tired of guessing temperatures and hardness values while heat treating your sword blades? The difference between a weapon-grade edge and a brittle failure comes down to precise documentation and process control—which is exactly what this template eliminates.  The Sword Blade Heat Treatment and Temper Guide consolidates every critical variable into
